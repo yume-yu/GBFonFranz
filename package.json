@@ -1,0 +1,12 @@
+{
+  "id": "gbf",
+  "name": "GranBlueFantasy",
+	"version": "0.0.1",
+  "description": "ぐらぶる",
+  "main": "index.js",
+  "author": "@yume_yu <yu.matchang@gmail.com>",
+  "config": {
+    "serviceURL": "http://game.granbluefantasy.jp/#mypage"
+  },
+	"openDevTools": false
+}
